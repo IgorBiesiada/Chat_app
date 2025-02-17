@@ -1,7 +1,7 @@
 import random
-from django.contrib.auth.models import AbstractUser
-from django.db import models
-from rest_framework import serializers
+from django.contrib.auth.models import AbstractUser 
+from django.db import models 
+from rest_framework import serializers 
 
 
 # Create your models here.
